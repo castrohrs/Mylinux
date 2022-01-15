@@ -1,0 +1,2 @@
+# Mylinux
+script linux
